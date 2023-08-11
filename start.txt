@@ -1,1 +1,1 @@
-Quelques Projets d'applications de html et css de freeCodeCamp.
+Quelques Projets d'applications de html et css de FreeCodeCamp.
